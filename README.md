@@ -1,2 +1,2 @@
 # Tyonhaku
-Job search daa and ML project
+Job search data and ML project
